@@ -14,4 +14,4 @@ Analisis data ini akan membantu kita memahami faktor-faktor apa yang mendorong p
 - Melakukan analisa dependent dan partener terhadap churn.
 - Melakukan analisa pengaruh Internet Service dengan churn.
 
-[Jawaban Dari QUestion Di atas](https://medium.com/p/5f66819b32d0/edit)
+[Jawaban Dari QUestion Di atas]https://medium.com/@zenbayu31/project-pacmann-telco-customer-churn-5f66819b32d0)
